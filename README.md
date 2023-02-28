@@ -1,4 +1,9 @@
+# SMPTE _AG-04_ - _Standards Template_
 
-# ag-04
-Administrative Guideline 04:2020 - Standards template
->>>>>>> parent of 7206733 (update readme)
+_This repository is *public*._
+
+* [Latest version](https://doc.smpte-doc.org/ag-04/main/)
+* [Redline against the latest edition](https://doc.smpte-doc.org/ag-04/main/pub-rl.html)
+
+Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONFIDENTIALITY.md), [LICENSE.md](./LICENSE.md) and
+[PATENTS.md](./PATENTS.md) for important notices.
