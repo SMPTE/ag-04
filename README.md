@@ -1,4 +1,9 @@
-# ag-04
-Administrative Guideline 04:2020 - Standards template
+# SMPTE _AG-04_ - _Standards Template_
 
-This private repository is available to all SMPTE Standards Community members to raise issues on the current AG-04. Please reference the date of the AG in your issue for tracking purposes. The AG is available [in the public domain on the SMPTE website](https://www.smpte.org/about/policies-and-governance)
+_This repository is *public*._
+
+* [Latest version](https://doc.smpte-doc.org/ag-04/main/)
+* [Redline against the latest edition](https://doc.smpte-doc.org/ag-04/main/pub-rl.html)
+
+Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONFIDENTIALITY.md), [LICENSE.md](./LICENSE.md) and
+[PATENTS.md](./PATENTS.md) for important notices.
